@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+
+
 #SRA-TOOLKIT
 #paired-end
 ./fasterq-dump SRR___ --split-files
